@@ -1,7 +1,6 @@
 Bienvenue sur le projet d'entraînement JS Kyra Coding ^^
 
-Il s'agit d'un remix du cours P5 sur OpenClassrooms où nous nous
-exercions à créer un carrousel tout mignon en JS.
+Il s'agit d'un remix du cours P5 sur OpenClassrooms où nous nous exerçons à créer un carrousel tout mignon en JS.
 
 Le style est déjà préparé, oui, c'est moi qui ai codé le tout en
 m'inspirant du P5 pour en faire un exercice pratique.
@@ -23,7 +22,6 @@ N'hésitez pas à me poser vos questions dans les commentaires !
 Bon codage :-)
 
 Kyra Coding
-
 
 IMPORTANT
 //----------------------------------------
